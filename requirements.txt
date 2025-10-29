@@ -1,0 +1,6 @@
+torch
+torchvision
+timm==1.*
+scikit-learn
+matplotlib
+kaggle
