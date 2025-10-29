@@ -5,7 +5,7 @@
 
 ## Installation rapide
 Voir `requirements.txt`, puis:
-
+pip install -r requirements.txt
 
 ## Lancer l’entraînement
 python src/train_vit.py --data_dir data/flowers --model deit_small_patch16_224 --epochs 15
